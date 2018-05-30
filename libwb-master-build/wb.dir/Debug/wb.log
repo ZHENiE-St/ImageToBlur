@@ -1,0 +1,25 @@
+﻿  Building Custom Rule E:/Project/libwb-master/CMakeLists.txt
+  CMake does not need to re-run because E:/Project/libwb-master-build/CMakeFiles/generate.stamp is up-to-date.
+  wbArg.cpp
+  wbCUDA.cpp
+  wbDataset.cpp
+  wbDirectory.cpp
+  wbExit.cpp
+  wbExport.cpp
+  wbFile.cpp
+  wbImage.cpp
+  wbImport.cpp
+  wbInit.cpp
+  wbLogger.cpp
+  wbMPI.cpp
+  wbPPM.cpp
+  wbPath.cpp
+  wbSolution.cpp
+  wbSparse.cpp
+  wbTimer.cpp
+  wbUtils.cpp
+  json11.cpp
+  Generating Code...
+wbUtils.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+wbCUDA.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  wb.vcxproj -> E:\Project\libwb-master-build\Debug\wb.lib
